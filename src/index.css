@@ -1,0 +1,243 @@
+body {
+  background-color: #f9f9f9;
+  color: black;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: 'Fira Code', monospace;
+}
+
+/* Navbar */
+.navbar {
+  width: 100%;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 20px 40px;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-left {
+  color: white;
+  font-weight: normal;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+.nav-right {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+  margin-right: 60px;
+}
+
+.nav-right li a {
+  color:  #f9f9f9;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.nav-right li a:hover {
+  color: #00ffff;
+}
+
+/* Center Text Section */
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  padding-left: 170px;
+  padding-top: 50px;
+  color: black;
+}
+
+.center h1 {
+  font-size: 100px;
+  margin-bottom: 5px;
+}
+
+.center h2,
+.center h3 {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.resume-image {
+  margin-top: 20px;
+  width: 140px;
+  height: auto;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.resume-image:hover {
+  transform: scale(1.05);
+}
+
+.resume-link:hover {
+  color: #004c99;
+  text-decoration: underline;
+}
+
+/* Profile Image + Socials */
+.image-wrapper {
+  position: absolute;
+  top: 60%;
+  right: 90px;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-pic {
+  width: 420px;
+  height: auto;
+  border-radius: 30px;
+}
+
+.socials-under-pic {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.social-icon {
+  width: 50px;
+  height: 50px;
+  transition: transform 0.01s ease;
+}
+
+.social-icon:hover {
+  transform: scale(1.3);
+}
+
+/* Signature */
+.signature {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+  opacity: 0.8;
+}
+
+/* About Section */
+.about-section {
+  padding: 100px 100px;
+  background-color: #f9f9f9;
+  color: black;
+}
+
+.about-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 60px;
+  flex-wrap: wrap;
+}
+
+.about-photo img {
+  width: 300px;
+  height: 500px;
+  border-radius: 20px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.about-photo img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.about-text {
+  flex: 1;
+  max-width: 600px;
+}
+
+.about-text h2 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.about-text p {
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+/* Projects Page */
+.projects-page {
+  padding: 100px;
+  background-color: #f9f9f9;
+  color: black;
+  overflow: visible; /* ensure hover effects are not clipped */
+}
+
+.projects-page h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.project-card {
+  background-color: black;
+  color: white;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 30px;
+  margin: 40px auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  max-width: 800px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: scale(1.05); /* pop on hover */
+  box-shadow: 0 0 20px #00ffff; /* glow on hover */
+}
+
+.project-card h2 {
+  margin-bottom: 10px;
+}
+
+.project-card ul {
+  list-style-type: disc;
+  padding-left: 0;
+  text-align: left;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.project-link {
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #1e90ff;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.project-link:hover {
+  color: #63b3ed;
+}
+
+.project-title {
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.project-title:hover {
+  transform: scale(1.05);
+}
