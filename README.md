@@ -26,7 +26,7 @@ npm start
 
 ##  For Curious Visitors
 
-This website isn’t just for show — it’s something I designed and built myself to tell you who I am and what I’ve worked on.
+This website isn’t just for show, it’s something I designed and built myself to tell you who I am and what I’ve worked on.
 
 
 
@@ -70,3 +70,5 @@ To me, being a PM or TPM means:
 - Building trust across teams  
 - Turning goals into action plans  
 - Constantly learning and improving
+
+" fail a lot, but fail fast " 
