@@ -8,12 +8,12 @@ Hi! 👋 I'm Vignesh, a Computer Science student passionate about technology, pr
 
 This site is built using **React.js** and hosted on [vigneshpengat.com](https://vigneshpengat.com).
 
-### 🔧 What I Used:
+###  What I Used:
 - **Languages & Tools:** JavaScript, HTML, CSS, React
 - **Libraries:** React Router (for navigation), HashLink (for smooth scrolling)
 - **Tools I used while building:** VS Code, GitHub and NPM
 
-### 💻 Want to See the Code in Action?
+###  Want to See the Code in Action?
 If you're a developer and want to try it out locally:
 
 bash
@@ -30,7 +30,7 @@ This website isn’t just for show, it’s something I designed and built myself
 
 
 
-### 🖥️ What You’ll Find Here:
+###  What You’ll Find Here:
 - A simple homepage that introduces me
 - A downloadable resume
 - An “About Me” section with my interests and story
@@ -38,30 +38,30 @@ This website isn’t just for show, it’s something I designed and built myself
 
 ---
 
-### 💼 My Featured Projects:
+###  My Featured Projects:
 
-#### 🛒 Grocery Price Checker (In Progress)
+####  Grocery Price Checker (In Progress)
 I’m building a Python tool that scrapes weekly flyers from stores, compares prices and shows people the cheapest options. I'm using **Python, Pandas, SQL** and **Power BI** to make it both useful and visual.
 
-#### 🌐 This Portfolio Website
+####  This Portfolio Website
 I designed and developed this from scratch using **React**. It’s clean, responsive and built to grow as I do. It reflects my skills, personality and work ethic.
 
-#### 📊 CETC Marketing Project
+####  CETC Marketing Project
 Worked remotely on a paid project for **Canada Education Technology College**. I created marketing content, researched trends and even produced YouTube videos — combining creativity, research and communication.
 
 ---
 
-### 📬 Want to Reach Out?
+###  Want to Reach Out?
 
 I’d love to connect, collaborate, or just chat:
 
-- ✉️ Email: vpengat@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/vignesh-pengat](https://linkedin.com/in/vignesh-pengat)  
-- 💻 GitHub: [github.com/vpengat](https://github.com/vpengat)
+- Email: vpengat@gmail.com  
+- LinkedIn: [linkedin.com/in/vignesh-pengat](https://linkedin.com/in/vignesh-pengat)  
+- GitHub: [github.com/vpengat](https://github.com/vpengat)
 
 ---
 
-### 📌 Why I Built This
+###  Why I Built This
 
 I’m working toward a career in **technical program management** and **product roles** — and this portfolio reflects that.
 
