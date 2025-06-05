@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+#  Vignesh Pengat – Personal Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi! 👋 I'm Vignesh, a Computer Science student passionate about technology, problem-solving and building things that make sense. This website is my personal space on the internet — a place where you can learn a bit about me, my background and the projects I've worked on.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+##  For the Tech-Savvy (Engineers & Devs)
 
-### `npm start`
+This site is built using **React.js** and hosted on [vigneshpengat.com](https://vigneshpengat.com).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🔧 What I Used:
+- **Languages & Tools:** JavaScript, HTML, CSS, React
+- **Libraries:** React Router (for navigation), HashLink (for smooth scrolling)
+- **Tools I used while building:** VS Code, GitHub and NPM
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 💻 Want to See the Code in Action?
+If you're a developer and want to try it out locally:
 
-### `npm test`
+bash
+git clone https://github.com/vpengat/Portfolio-Website.git
+cd Portfolio-Website
+npm install
+npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##  For Curious Visitors
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This website isn’t just for show — it’s something I designed and built myself to tell you who I am and what I’ve worked on.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 🖥️ What You’ll Find Here:
+- A simple homepage that introduces me
+- A downloadable resume
+- An “About Me” section with my interests and story
+- A “Projects” page with details on what I’ve built
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 💼 My Featured Projects:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### 🛒 Grocery Price Checker (In Progress)
+I’m building a Python tool that scrapes weekly flyers from stores, compares prices and shows people the cheapest options. I'm using **Python, Pandas, SQL** and **Power BI** to make it both useful and visual.
 
-## Learn More
+#### 🌐 This Portfolio Website
+I designed and developed this from scratch using **React**. It’s clean, responsive and built to grow as I do. It reflects my skills, personality and work ethic.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### 📊 CETC Marketing Project
+Worked remotely on a paid project for **Canada Education Technology College**. I created marketing content, researched trends and even produced YouTube videos — combining creativity, research and communication.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+### 📬 Want to Reach Out?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+I’d love to connect, collaborate, or just chat:
 
-### Analyzing the Bundle Size
+- ✉️ Email: vpengat@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/vignesh-pengat](https://linkedin.com/in/vignesh-pengat)  
+- 💻 GitHub: [github.com/vpengat](https://github.com/vpengat)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+### 📌 Why I Built This
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+I’m working toward a career in **technical program management** and **product roles** — and this portfolio reflects that.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+To me, being a PM or TPM means:
+- Explaining ideas clearly  
+- Building trust across teams  
+- Turning goals into action plans  
+- Constantly learning and improving
